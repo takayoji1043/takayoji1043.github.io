@@ -1,0 +1,31 @@
+.padding{
+    padding-top: 100px;
+}
+
+.name{
+    line-height: 1;
+    font-size: 30px
+}
+
+.namae{
+    margin: 0.1em;
+}
+
+.username{
+    line-height: 1;
+    font-size: 15px
+}
+
+.link{
+    letter-spacing: 5em;
+}
+
+body{
+    text-align: center;
+
+    margin-bottom: 1000em;
+}
+
+.serif{
+    font-family: serif;
+}
