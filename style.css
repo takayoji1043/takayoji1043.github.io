@@ -1,31 +1,31 @@
-.padding{
+.padding {
     padding-top: 100px;
 }
 
-.name{
+.name {
     line-height: 1;
     font-size: 30px
 }
 
-.namae{
+.namae {
     margin: 0.1em;
 }
 
-.username{
+.username {
     line-height: 1;
     font-size: 15px
 }
 
-.link{
+.link {
     letter-spacing: 5em;
 }
 
-body{
+body {
     text-align: center;
 
-    margin-bottom: 1000em;
+    margin-bottom: 99999em;
 }
 
-.serif{
+.serif {
     font-family: serif;
 }
